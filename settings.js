@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "KiraiiBotzOFC🔞" //namabot kalian
+global.botname = "MiraiiBotzOFC🎴" //namabot kalian
 global.ownername= "ᴹᴿ᭄ KiraiiSenpai👑 ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
@@ -40,14 +40,14 @@ global.ownernomerr = "+60169611989" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© KiraiiBotzOFC🔞' //sticker wm ubah
-global.author = 'Made by KiraiiBotzOFC🔞' //sticker wm ganti nama kalian
+global.packname = '© KiraiiSenpai🔞' //sticker wm ubah
+global.author = 'Made by MiraiiBotzOFC🎴' //sticker wm ganti nama kalian
 global.sessionName = 'Kiraii-Sama👑'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
@@ -83,7 +83,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Welcome Kon 👑 @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Welcome Anak Kont(ugh) 👑 @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
